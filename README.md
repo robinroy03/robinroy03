@@ -1,2 +1,2 @@
-I also built:
+- [Kimu: Web Video Editor](https://github.com/trykimu/videoeditor)
 - [Pronouncey: Real-World English Pronunciation from Native Speakers](https://chromewebstore.google.com/detail/pronouncey-real-world-eng/kgjbnggfkdndfpcmngnfpikgjnhdaedn)
